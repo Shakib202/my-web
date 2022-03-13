@@ -1,6 +1,11 @@
-.gray{
-  color: gray;
+.font-weight{
   font-weight: 700;
+}
+.background-color{
+  background-color: #f0f4f7;
+}
+.blue{
+  color: blue;
 }
 .box-none{
   border: none;
