@@ -10,3 +10,10 @@
 .box-none{
   border: none;
 }
+.box{
+  border: 5px solid gray;
+  background-color: #f5f7f8;
+}
+.radious{
+  border-radius: 50px;
+}
