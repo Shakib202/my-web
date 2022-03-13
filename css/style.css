@@ -13,7 +13,11 @@
 .box{
   border: 5px solid gray;
   background-color: #f5f7f8;
+  height: 300px;
 }
 .radious{
   border-radius: 50px;
+}
+.radious2{
+  border-radius: 15px;
 }
