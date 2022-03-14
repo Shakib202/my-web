@@ -4,6 +4,12 @@
 .background-color{
   background-color: #f0f4f7;
 }
+.background-blue{
+  background-color: rgba(53, 53, 255, 0.795);
+}
+.white{
+  color: white;
+}
 .blue{
   color: blue;
 }
@@ -25,4 +31,8 @@
 }
 .radious2{
   border-radius: 15px;
+}
+.img-sizing{
+  width: 20px;
+  border-radius: 25px;
 }
